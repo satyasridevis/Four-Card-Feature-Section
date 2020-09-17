@@ -156,7 +156,7 @@ footer
 
 }
 .attribution { font-size: 16px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+.attribution a { color: hsl(180, 62%, 55%); }
 
 /* Responsive Web Design */
 
@@ -198,8 +198,8 @@ footer
   .second-container img
   {
     position: relative;
-    top: 1em;
-    left: 16em;
+    top: 2em;
+    left: 13em;
     width: 70px;
     height: 70px;
   }
@@ -247,13 +247,5 @@ footer
       height: 10px;
 
     }
-    footer a
-    {
-      color: hsl(180, 62%, 55%);
-    }
-
-
-
-
 
 }
